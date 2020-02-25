@@ -1,7 +1,6 @@
 const path = require('path').posix;
 const AngularEnvironmentPlugin = require('./plugins/angular-environment-plugin');
 const { AngularCompilerPlugin } = require('@ngtools/webpack');
-const { ProvidePlugin } = require('webpack')
 
 var environment = process.env.NODE_ENV;
 // environment = 'production';
