@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "server/**/*",
+        "main.js",
+        "startup/**/*",
+        "configuration.js"
+    ]
+}

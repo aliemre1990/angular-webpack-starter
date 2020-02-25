@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": [
+            "es6",
+            "dom",
+            "es2015.promise"
+        ],
+        "target": "es5"
+    },
+    "exclude": [
+        "main.aot.ts"
+    ]
+}
