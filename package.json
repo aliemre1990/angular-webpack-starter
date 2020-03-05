@@ -1,12 +1,11 @@
 {
-  "name": "mean-shop",
+  "name": "angular8-webpack4-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack --config webpack/webpack.config.js --ngEnvironment prod && node main.js",
-    "watch": "gulp watch",
-    "buildclient": "webpack --config webpack/webpack.config.js --ngEnvironment dev"
+    "watch": "gulp watch"
   },
   "author": "",
   "license": "ISC",
